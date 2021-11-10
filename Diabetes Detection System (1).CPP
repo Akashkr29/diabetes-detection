@@ -72,7 +72,7 @@ void diabetes::welcome_screen()
 	   textcolor(YELLOW);
 	   cputs("********* W E L C O M E ********* " );
 	   gotoxy(25,9);
-	   cputs(" C A M P I O N   S C H O O L "  );
+	   cputs(" H A L D I A  I N S T I T U T E "  );
 	   gotoxy(18,12);
 	   cputs(" M E D I C A L   D I A G N O S I S   S O F T W A R E  ");
 	   textcolor(GREEN+BLINK);
@@ -84,7 +84,7 @@ void diabetes::welcome_screen()
 	    gotoxy(x,14);
 	    cputs("D O N E  B Y  : ");
 	    gotoxy(x,16);
-	    cputs("Navi Arora ");
+	    cputs("Akash and Sunny ");
 	    gotoxy(43,18);
  
 	   }

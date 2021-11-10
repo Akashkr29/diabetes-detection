@@ -136,7 +136,7 @@ void diagnosis(void)
      cout<<"\n\n\n";
      cputs(" Let's have alook at  symptoms.........");
      cout<<"\n\n\n";
-     cputs(" Please enter the form in next page .");
+     cputs(" Please fill the form in next page .");
      cout<<"\n\n\n\n\n\n\t\t\t ";
      textcolor(YELLOW);
      cputs("***** PRESS ANY KEY ***** ");
